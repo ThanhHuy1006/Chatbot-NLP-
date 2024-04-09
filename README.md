@@ -9,5 +9,5 @@ Dự án này sử dụng các kỹ thuật Xử lý Ngôn ngữ Tự nhiên (NL
 2. **Truy cập vào địa chỉ [http://localhost:5000](http://localhost:5000) trong trình duyệt web của bạn.**
 3. Bắt đầu tương tác với chatbot bằng cách nhập câu hỏi vào ô đầu vào.
 4. Chatbot sẽ xử lý đầu vào bằng các kỹ thuật NLP và cung cấp các phản hồi phù hợp dựa trên mô hình đã được huấn luyện.
-##Tác giả
+## Tác giả
 Đặng Thanh Huy
